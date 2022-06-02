@@ -1,6 +1,7 @@
 # Social-Network-and-Lifestyle-Recommendation
 
 ## 1) Introduction
+   This project collect social networks with their favorite and store in the form of knowlegde graph by using Neo4j. Then make a link prediction in terms that you like something. This task we can call a recommendation task base on knowledge graph to find out what people might like.
 
 ## 2) Data source  
    We create questionnaire in Google Form to collect about personal preferences including domicile, travel, social media, food, game, football club, buffet restaurant, TV series, movie and actor. The questionnaires were sent to 14 people.
